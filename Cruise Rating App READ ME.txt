@@ -1,0 +1,50 @@
+                                     ****Java Graduation Project****
+
+Project Overview
+The Cruise Rating System is a software application designed to manage and display information about guests, waiters, and Medallia scores on a cruise.
+The application allows users to view lists of guests and waiters, individual waiter ratings, and the total average rating for the cruise. 
+It provides a convenient way to track and assess the performance of waiters based on guest feedback.
+
+Project Features
+The Cruise Rating System includes the following features:
+
+1. Guest List: Display a list of all guests on the cruise, including their names and relevant details such as cabin numbers.
+
+2. Waiter List: Show a list of all waiters working on the cruise, including their names, employee IDs.
+
+3. Station: Show a list of all guests their room numbers,waiters and their station numbers, inclucing their table number on their station as well guest that are assigned to those tables.
+
+3. Medallia: Present Medallia scores for each guest, which represent guest satisfaction ratings. The scores is displayed on a numerical scale.
+
+4. Rating Score: Allow users to select a specific waiter and view their individual rating based on guest feedback.
+
+5. Cruise Rating: Calculate and display the total average rating for entire cruise. This provides an overall assessment of the waitstaff performance.
+
+
+How to Run the Project
+
+To run the Cruise Rating System project, follow these steps:
+
+Step 1: Clone or download the project repository from the provided source.
+
+Step 2: Open the project in your preferred integrated development environment (IDE), such as IntelliJ IDEA, Eclipse, or NetBeans.
+
+Step 3: Make sure you have the appropriate Java Development Kit (JDK) installed on your system.
+
+Step 4: Resolve any dependencies required for the project. This may include external libraries or frameworks used for GUI, charting, or database connectivity.
+
+Step 5: In Project Structure import from folder "lib" mysql-connector-j-8.0.33.jar and rs2xml.jar
+
+Step 6: Once the jar files are successfully imported, locate the main entry point of the application. This is the main method.
+
+Step 7: Run the application by executing the main class. This will start the Cruise Rating System and open the user interface.
+
+
+
+
+
+
+
+
+
+
